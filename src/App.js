@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import "./App.css";
 import Expenses from "./components/Expenses/Expenses";
 import NewExpense from "./components/NewExpense/NewExpense";
+import ExpensesChart from './components/Expenses/ExpensesChart';
 
 const initialData = [
   { id: 1, title: "new desk", amount: 300, date: new Date(2021, 5, 12) },
@@ -23,6 +24,7 @@ function App() {
   return (
     <div className="App">
       <NewExpense onAddExpense={addExpenseHandler} />
+      {/* <ExpensesChart expenses={expenses}/> */}
       <Expenses expenses={expenses} />
     </div>
   );
