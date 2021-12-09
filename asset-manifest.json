@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/expensesApp.git/static/css/main.0128a511.chunk.css",
-    "main.js": "/expensesApp.git/static/js/main.e97b1db0.chunk.js",
-    "main.js.map": "/expensesApp.git/static/js/main.e97b1db0.chunk.js.map",
-    "runtime-main.js": "/expensesApp.git/static/js/runtime-main.f887b3db.js",
-    "runtime-main.js.map": "/expensesApp.git/static/js/runtime-main.f887b3db.js.map",
-    "static/js/2.2cf72847.chunk.js": "/expensesApp.git/static/js/2.2cf72847.chunk.js",
-    "static/js/2.2cf72847.chunk.js.map": "/expensesApp.git/static/js/2.2cf72847.chunk.js.map",
-    "static/js/3.bd2b0ae7.chunk.js": "/expensesApp.git/static/js/3.bd2b0ae7.chunk.js",
-    "static/js/3.bd2b0ae7.chunk.js.map": "/expensesApp.git/static/js/3.bd2b0ae7.chunk.js.map",
-    "index.html": "/expensesApp.git/index.html",
-    "static/css/main.0128a511.chunk.css.map": "/expensesApp.git/static/css/main.0128a511.chunk.css.map",
-    "static/js/2.2cf72847.chunk.js.LICENSE.txt": "/expensesApp.git/static/js/2.2cf72847.chunk.js.LICENSE.txt"
+    "main.css": "/expensesApp/static/css/main.0128a511.chunk.css",
+    "main.js": "/expensesApp/static/js/main.e97b1db0.chunk.js",
+    "main.js.map": "/expensesApp/static/js/main.e97b1db0.chunk.js.map",
+    "runtime-main.js": "/expensesApp/static/js/runtime-main.989a42e2.js",
+    "runtime-main.js.map": "/expensesApp/static/js/runtime-main.989a42e2.js.map",
+    "static/js/2.2cf72847.chunk.js": "/expensesApp/static/js/2.2cf72847.chunk.js",
+    "static/js/2.2cf72847.chunk.js.map": "/expensesApp/static/js/2.2cf72847.chunk.js.map",
+    "static/js/3.bd2b0ae7.chunk.js": "/expensesApp/static/js/3.bd2b0ae7.chunk.js",
+    "static/js/3.bd2b0ae7.chunk.js.map": "/expensesApp/static/js/3.bd2b0ae7.chunk.js.map",
+    "index.html": "/expensesApp/index.html",
+    "static/css/main.0128a511.chunk.css.map": "/expensesApp/static/css/main.0128a511.chunk.css.map",
+    "static/js/2.2cf72847.chunk.js.LICENSE.txt": "/expensesApp/static/js/2.2cf72847.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f887b3db.js",
+    "static/js/runtime-main.989a42e2.js",
     "static/js/2.2cf72847.chunk.js",
     "static/css/main.0128a511.chunk.css",
     "static/js/main.e97b1db0.chunk.js"
